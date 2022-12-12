@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackHipMemory", "StackHipMemory\StackHipMemory.csproj", "{FC8F349A-826B-4A50-BCCC-A51F8271BE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8F349A-826B-4A50-BCCC-A51F8271BE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8F349A-826B-4A50-BCCC-A51F8271BE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8F349A-826B-4A50-BCCC-A51F8271BE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8F349A-826B-4A50-BCCC-A51F8271BE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {072DE5CA-0CE9-42E3-8676-C88259F156A4}
+	EndGlobalSection
+EndGlobal

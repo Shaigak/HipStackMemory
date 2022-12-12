@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\bin\Debug\net6.0\StackHipMemory.exe
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\bin\Debug\net6.0\StackHipMemory.deps.json
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\bin\Debug\net6.0\StackHipMemory.runtimeconfig.json
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\bin\Debug\net6.0\StackHipMemory.dll
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\bin\Debug\net6.0\StackHipMemory.pdb
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.dll
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\refint\StackHipMemory.dll
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.pdb
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\StackHipMemory.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\Lab\Stack Hip\StackHipMemory\StackHipMemory\obj\Debug\net6.0\ref\StackHipMemory.dll

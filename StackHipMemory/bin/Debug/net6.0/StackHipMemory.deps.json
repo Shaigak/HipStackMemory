@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StackHipMemory/1.0.0": {
+        "runtime": {
+          "StackHipMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackHipMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
